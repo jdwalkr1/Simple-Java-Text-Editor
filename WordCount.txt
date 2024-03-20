@@ -1,0 +1,5 @@
+1. Get Text as string from UI.
+2. Iterate through string seperated by " ".
+3. Update Counter
+4. Create smaller GUI to represent results.
+5. GUI pops up after query
