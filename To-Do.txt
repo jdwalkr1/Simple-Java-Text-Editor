@@ -1,0 +1,4 @@
+- Implement:
+1. Word Count
+2. Character Count
+3. Count Instance-Of
